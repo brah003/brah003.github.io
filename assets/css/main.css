@@ -2642,7 +2642,7 @@
 
 		.wrapper.style1 {
 				background-color: #D9853B;
-				background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/backgroundtext.jpg");
+				background-image: url("../../images/backgroundtext.jpg") !important;
 				color: #c7ebe8;
 			}
 
