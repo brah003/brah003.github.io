@@ -2610,6 +2610,14 @@
 		}
 
 /* Wrapper */
+	
+	
+	.parallax {
+  perspective-origin-x: 100%;
+}
+.parallax__layer {
+  transform-origin-x: 100%;
+}
 
 	.wrapper {
 		padding: 6em 0 4em 0 ;
